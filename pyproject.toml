@@ -10,7 +10,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "ezclassify"
-version = "1.0.0.dev30"
+version = "1.0.0rc0"
 description = "EzClassify Python SDK dev harness: conformance replayer over the published packages"
 readme = "README.md"
 license = "Apache-2.0"

@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "ezclassify-rest-client"
-version = "1.0.0.dev30"
+version = "1.0.0rc0"
 description = "HTTP client and Pydantic wire models for the EzClassify REST API"
 readme = "README.md"
 license = {file = "LICENSE"}
